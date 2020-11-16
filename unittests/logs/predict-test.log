@@ -1,0 +1,3 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+695efbb7-1540-48e8-b157-7240eb95d227,1605461228.292529,[0],"[0.6, 0.4]","['United Kingdom', '2018', '01', '05']",0.1,00:00:02
+c60bf540-1c11-4c9f-be7a-c5a8a075e667,1605461228.292529,[0],"[0.6, 0.4]","['United Kingdom', '2018', '01', '05']",0.1,00:00:02

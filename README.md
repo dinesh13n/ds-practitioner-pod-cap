@@ -35,7 +35,7 @@ Run the container
 
 docker run -p 4000:8080 ibmcapsproj-00832g
 
-Project Review Points.
+Project Review Points. 
 
 Unit tests for the API: unittests/ApiTests.py
 Unit tests for the model: unittests/ModelTests.py
